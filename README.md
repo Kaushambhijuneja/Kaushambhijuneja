@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kaushambhijuneja
 - 👀 I’m interested in AI , Data Analytics and Cybersecurity
-- 🌱 I’m currently pursuing Computer Science Engineering and am starting my Third year
+- 🌱 I’m currently pursuing Computer Science Engineering and am in my Third year
 - 💞️ I'm new here , loooking forward to collaborate and learn
   
 - ⚡ Fun fact: I like to write and am always looking at ways to make tasks easier and more efficient , hence my choice of field <3
